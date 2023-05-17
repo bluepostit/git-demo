@@ -2,4 +2,4 @@ Hello, Celery!
 
 Wishing you all a wonderful course 😎
 
-Now let's learn more about Git
+Now let's learn more about Git 🌿🌲🌱
